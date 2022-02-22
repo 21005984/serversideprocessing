@@ -34,6 +34,7 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ### Home Page:
+![Screenshot (103)](https://user-images.githubusercontent.com/94748389/155069921-afb09253-d46c-412d-bf26-e29c84970d04.png)
 
 
 ## Result:
